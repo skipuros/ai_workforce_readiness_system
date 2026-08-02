@@ -68,7 +68,7 @@ Track adoption, behavior change, work quality, efficiency, and business results.
 
 ## Planned Project Resources
 
-1. Workforce readiness assessment
+1. [Workforce readiness assessment](resources/workforce_readiness_assessment.md)
 
 2. AI use case prioritization matrix
 
