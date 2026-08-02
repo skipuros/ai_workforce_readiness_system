@@ -70,7 +70,7 @@ Track adoption, behavior change, work quality, efficiency, and business results.
 
 1. [Workforce readiness assessment](resources/workforce_readiness_assessment.md)
 
-2. AI use case prioritization matrix
+2. [AI use case prioritization matrix](resources/ai_use_case_prioritization_matrix.md)
 
 3. Role analysis worksheet
 
