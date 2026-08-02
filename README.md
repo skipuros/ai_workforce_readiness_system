@@ -72,7 +72,7 @@ Track adoption, behavior change, work quality, efficiency, and business results.
 
 2. [AI use case prioritization matrix](resources/ai_use_case_prioritization_matrix.md)
 
-3. Role analysis worksheet
+3. [Role analysis worksheet](resources/role_analysis_worksheet.md)
 
 4. Learning pathway template
 
