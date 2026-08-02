@@ -92,6 +92,14 @@ Track adoption, behavior change, work quality, efficiency, and business results.
 
 This portfolio project is currently in development. Resources will be added as each component is completed and reviewed.
 
+## Public Use and Privacy
+
+This repository contains blank, sanitized portfolio templates. Do not enter confidential, personal, regulated, customer, employer, or proprietary information in public copies, issues, or pull requests.
+
+Organizations should adapt these resources to their own privacy, security, legal, compliance, and AI governance requirements. This framework is not legal, security, or compliance advice.
+
+Download or copy the blank resources and complete them privately. Do not save completed assessments in this public repository.
+
 ## Portfolio Context
 
 This is a sanitized portfolio demonstration. It contains no employer, customer, confidential, or proprietary information.
