@@ -104,4 +104,8 @@ Download or copy the blank resources and complete them privately. Do not save co
 
 This is a sanitized portfolio demonstration. It contains no employer, customer, confidential, or proprietary information.
 
+## License
+
+These resources are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md). You may share and adapt them with appropriate credit to Steve Kipuros.
+
 Created by [Steve Kipuros](https://kipuros.com)
